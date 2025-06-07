@@ -1,3 +1,5 @@
 title: Shared AI Tech
 description: A place to share our tech knowledge about AI
-theme: minima
+theme: null
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
