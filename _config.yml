@@ -2,4 +2,5 @@ title: Shared AI Tech
 description: A place to share our tech knowledge about AI
 theme: null
 markdown: kramdown
+baseurl: "/shared-ai-tech"
 permalink: /:year/:month/:day/:title/
