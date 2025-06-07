@@ -1,6 +1,10 @@
 title: Shared AI Tech
-description: A place to share our tech knowledge about AI
-theme: null
+description: A collection of shared tech ideas and blog posts
+baseurl: "/shared-ai-tech" # ← IMPORTANT
+url: "https://nguyenthuctrongnhan.github.io"
+
+theme: minima
+
+# Optional but helpful:
 markdown: kramdown
-baseurl: "/shared-ai-tech"
-permalink: /:year/:month/:day/:title/
+permalink: pretty
