@@ -1,7 +1,0 @@
-title: Shared AI Tech
-description: A place to share our tech knowledge about AI
-url: "https://nguyenthuctrongnhan.github.io"  # ← REQUIRED for baseurl to work correctly
-baseurl: "/shared-ai-tech"                    # ← Matches your GitHub repo name
-theme: minima                                  # ← Use GitHub Pages-compatible theme
-markdown: kramdown
-permalink: /:year/:month/:day/:title/
